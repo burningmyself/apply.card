@@ -3,4 +3,4 @@ const cardList=[
   
 ]
 
-export default cardList;
+// export default cardList;
