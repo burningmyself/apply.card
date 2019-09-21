@@ -1,0 +1,23 @@
+{
+  "name": "apply.card",
+  "version": "1.0.0",
+  "description": "apply card",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burningmyself/apply.card.git"
+  },
+  "keywords": [
+    "apply",
+    "card"
+  ],
+  "author": "yfb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/burningmyself/apply.card/issues"
+  },
+  "homepage": "https://github.com/burningmyself/apply.card#readme"
+}
