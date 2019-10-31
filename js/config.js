@@ -10,6 +10,11 @@ const cardList = [
     "logo":"assets/zx.png"
   },
   {
+    "url": "https://wm.cib.com.cn/html/webapp/fast-issue/parnter.html?id=f1d8acfdcd7b41789622f076c648b3d9",
+    "name":"兴业银行",
+    "logo":"assets/xy.png"
+  },
+  {
     "url": "https://b.pingan.com.cn/creditcard/huodong/MGM4ZJ/M2.shtml?source=kdapp&amp;outerSource=mgm4-201712&amp;channel_source=04&amp;usertagid=20280&amp;xykRandomStr=3730020172&amp;rec_no=&amp;rec_type=&amp;media_source=&amp;activity_Id=V0978&amp;activity_FlowId=m_T0MRDFK0nQlCimv14348&amp;SSLSOURCE=BROP-CMP",
     "name":"平安银行",
     "logo":"assets/pa.png"
@@ -20,7 +25,7 @@ const cardList = [
     "logo":"assets/jt.png"
   },
   {
-    "url": "https://creditcard.cmbc.com.cn/wsv2/?etr=f8TRGNHmS1LiAEEwKbe3JGw6CA5pmNV2y8QwaPCIPeAv1dVS8bEksPtk7+KFFK4vrzvZghsMOYjStY4iCduNMilBWZiWfBNE95A4/7hN9Ec70u74Ph38LuAguD9ehfyXmd3BRcDmeb3r0KmTM2F0Vj7NmxHc0O9uqpPd9TXUeBkIWjLdQ45N+WGVtcxe4t9M8olE2ql+Vu7/cON33YNY9hZKXN8ltXGC5r/RPMCz8kMytN5DMPzYHyY+GN6sGug38Fm/lNZ3vRFIuIA2Umc0zo7BIcM7kETgHwfTvASzzUPAHHpshH855j9XW8iIOTle89RFqlkBYU81Ufmi/F1JSrHUIlntLmn5abtdiPo6f26iGqTsPM2+BvyZHsryGwuiu99q9+3LoMYTUzTG1dLbXxLeJom1Mh+yL7oR5NoiTb5XoV+Xl4Iwm8rhWrUycr43BHEhxybIpxuZm2HkkCpwXRo6Jocx4nKJI5x8xvti3FHjfAWgvaHkjYOj+5iA+4U2",
+    "url": "https://creditcard.cmbc.com.cn/wsv2/?etr=pr4/XA4nN8IjcfFVQqT7PiUNFmHPx+TeYy9TF9N4RZ8N2AXG27ZZu0WQs2jpm9oeIrfifkYESgt5nAb52byMu5LlcbUu8C+taRpwDTShFDG86+Zf3R5BYRDm2RSrnb5t1mus1PorFWCiNnQwpuQLy9ml5oIMU7FtJV8sc4FX0blMXqKh+sx07x+VkRKRrny+oaPd6tf4njhdbgXTqUgjoalr77RZdbmzyCUxSxd8yRjMiBCuEoZcFPhygUqiLml+AIf+KrqtNoC6B2rm9+HLLuSxUHVGfDuwjLGEnZZYq3u/d7FkDePA6f7I5FSVZDaLJXMMTwp09X2oy69KYGb2ZIljy/6fjVI8s8X1kjoTbIhxYchh8xux1/shWAluypdIPj271d7kuxvhDT49282n7qEIjg6rf1bByqe8XF3AFUBQVWCJYiVuck8pO7n3bWJEFEHr4y1OogVaZX1Gb6GnGAmozKVQt86JlEacCUjb0hPjcHo0n5gp1V0W8E0pdwpH&token=Kp3dKpAt9LfexvVWpBmuNDYdmnxwmD7fg6Ux14o3CUK3l9I3DRpNf2OusY981kDrf96P_munVhv9HJ-tNl-9yw",
     "name":"民生银行",
     "logo":"assets/ms.png"
   },
@@ -33,11 +38,6 @@ const cardList = [
     "url": "https://xyk.cebbank.com/cebmms/apply/psjk/list.htm?pro_code=FHZY010000SZ0001CCTC&amp;c2c_recom_flag=89135537",
     "name":"光大银行",
     "logo":"assets/gd.png"
-  },
-  {
-    "url": "https://wm.cib.com.cn/html/webapp/fast-issue/parnter.html?id=b512efa695e5466fa0243972000ce6ab",
-    "name":"兴业银行",
-    "logo":"assets/xy.png"
   },
   {
     "url": "https://apl.cc.hrbb.com.cn/bankcoas/mb/?mobphnNo=CD36CD66E1DE7699338B59A0CF2F151F&amp;Merchant=CF18EB490DE8A2F8&amp;Channel=C981FED17585F2AE&amp;idNum=EAAD24A9F3E01D40FDA688EC6B0F6F63BA733F22F1C0AC88",
