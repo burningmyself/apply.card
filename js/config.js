@@ -10,7 +10,7 @@ const cardList = [
     "logo":"assets/zx.png"
   },
   {
-    "url": "https://wm.cib.com.cn/html/webapp/fast-issue/parnter.html?id=f1d8acfdcd7b41789622f076c648b3d9",
+    "url": "https://wm.cib.com.cn/html/webapp/fast-issue/parnter.html?id=8bede95ad6a94ec78397207f346f31c3",
     "name":"兴业银行",
     "logo":"assets/xy.png"
   },
@@ -25,7 +25,7 @@ const cardList = [
     "logo":"assets/jt.png"
   },
   {
-    "url": "https://creditcard.cmbc.com.cn/wsv2/?etr=pr4/XA4nN8IjcfFVQqT7PiUNFmHPx+TeYy9TF9N4RZ8N2AXG27ZZu0WQs2jpm9oeIrfifkYESgt5nAb52byMu5LlcbUu8C+taRpwDTShFDG86+Zf3R5BYRDm2RSrnb5t1mus1PorFWCiNnQwpuQLy9ml5oIMU7FtJV8sc4FX0blMXqKh+sx07x+VkRKRrny+oaPd6tf4njhdbgXTqUgjoalr77RZdbmzyCUxSxd8yRjMiBCuEoZcFPhygUqiLml+AIf+KrqtNoC6B2rm9+HLLuSxUHVGfDuwjLGEnZZYq3u/d7FkDePA6f7I5FSVZDaLJXMMTwp09X2oy69KYGb2ZIljy/6fjVI8s8X1kjoTbIhxYchh8xux1/shWAluypdIPj271d7kuxvhDT49282n7qEIjg6rf1bByqe8XF3AFUBQVWCJYiVuck8pO7n3bWJEFEHr4y1OogVaZX1Gb6GnGAmozKVQt86JlEacCUjb0hPjcHo0n5gp1V0W8E0pdwpH&token=Kp3dKpAt9LfexvVWpBmuNDYdmnxwmD7fg6Ux14o3CUK3l9I3DRpNf2OusY981kDrf96P_munVhv9HJ-tNl-9yw",
+    "url": "https://creditcard.cmbc.com.cn/wsv2/?etr=i0dUGKrYa83Ca9Y4R3JCeoHHb4hYjYuPE+CGdEzAEjDv3Xjo5eAFgOWqlwEceIbm+6nbsbgHoLTHvghRq8IawCs4lM/djSMVUpQT/JmoqW9VlqTDVqxwjnhFYmn5h0CcgaJB5LW519GrAiNIgFi1n3SL1zp7mn1ww7djCMsGoATDU1nGI0EWF+FZJvS9Kkdld/HfQRV+qiR1IJ6ask1PDB6beMI1vW5w6RkKS5oueWUenXjJATW6YmlMdNKSXtinncq25/tBRCB9G+OirDlWxMuKJvtNA8FYjrkCE5Iyrp5k0vDH3r+FY8Dm6bP2yLyOfflPHB2BcCO+Zc9NIlaSOB7JUVMT30H50F5PiyyrZQ6nKNamXNWvNArjcahfpCuPw/5HeRuQB924TzTIHPk9UBKIMDeuRtAGoB+AJJ7l84X4UwxAeAev4VjFsK3KkYcvnSReRoZ5PfveCzgioc1ump1cDcT5b/3qsC+sPpQ4ULXdgjJcKlpA76/mepXqz1gj&token=PiG6xSJWQkqjADO_pz8NvD5SVjgTDEwl5qk_-c6JqIKVPIW8DfR7bb8S_M2siOJhO_ZqvgTjyORASaAFqpj_uw",
     "name":"民生银行",
     "logo":"assets/ms.png"
   },
@@ -35,13 +35,18 @@ const cardList = [
     "logo":"assets/gs.png"
   },
   {
-    "url": "https://xyk.cebbank.com/cebmms/apply/psjk/list.htm?pro_code=FHZY010000SZ0001CCTC&amp;c2c_recom_flag=89135537",
-    "name":"光大银行",
-    "logo":"assets/gd.png"
-  },
-  {
     "url": "https://apl.cc.hrbb.com.cn/bankcoas/mb/?mobphnNo=CD36CD66E1DE7699338B59A0CF2F151F&amp;Merchant=CF18EB490DE8A2F8&amp;Channel=C981FED17585F2AE&amp;idNum=EAAD24A9F3E01D40FDA688EC6B0F6F63BA733F22F1C0AC88",
     "name":"哈尔滨银行",
     "logo":"assets/he.png"
+  },
+  {
+    "url": "https://api.djtlpay.com/Web/RecBankCard?Id=201901031643001177847fae04d6b58",
+    "name":"中国银行",
+    "logo":"assets/zg.png"
+  },
+  {
+    "url": "https://xyk.cebbank.com/cebmms/apply/psjk/list.htm?pro_code=FHZY010000SZ0001CCTC&amp;c2c_recom_flag=89135537",
+    "name":"光大银行",
+    "logo":"assets/gd.png"
   },
 ];
