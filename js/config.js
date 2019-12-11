@@ -5,7 +5,7 @@ const cardList = [
     "logo":"assets/pf.png"
   },
   {
-    "url": "https://creditcard.ecitic.com/m/tjbk/card_list.html?uid=TJ48787789&amp;sid=SJDKTJBK",
+    "url": "https://creditcard.ecitic.com/m/tjbk/card_list.html?uid=TJ48787789&sid=SJTJBK",
     "name":"中信银行",
     "logo":"assets/zx.png"
   },
