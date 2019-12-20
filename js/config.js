@@ -15,7 +15,7 @@ const cardList = [
     "logo":"assets/xy.png"
   },
   {
-    "url": "https://b.pingan.com.cn/creditcard/huodong/MGM4ZJ/M2.shtml?source=kdapp&amp;outerSource=mgm4-201712&amp;channel_source=04&amp;usertagid=20280&amp;xykRandomStr=3730020172&amp;rec_no=&amp;rec_type=&amp;media_source=&amp;activity_Id=V0978&amp;activity_FlowId=m_T0MRDFK0nQlCimv14348&amp;SSLSOURCE=BROP-CMP",
+    "url": "https://b.pingan.com.cn/creditcard/life/marketing/uniMGMM2/uniMGMM2.html?recommendChineseName=%E6%8E%A8%E8%8D%90&recommendPhone=15696434348&headImage=http%3A%2F%2Fthirdwx.qlogo.cn%2Fmmopen%2FXHZQM9SpdF9YlTaTmoC5OPUj9OH2yJdqHNhic05q4ibDUo4KzJ3tWoxoc2OCibUwx3D0TFPxibbfQJ9tfzphiciaY9icz2GEoPibBlef%2F132&MGMAD=https%3A%2F%2Fb.pingan.com.cn%2Fkuaizhan%2Fpage%2F20190201%2Fh2329.html%3Fcampaignid%3D201902001401%26activity_Id%3DV3484&channel_source=2&source=tyMGM&outerSource=tymgm201909&activity_Id=V3484&activity_FlowId=m_H0MyWxgMSizBXsHT4348&enUmForShare=&rec_no=&SSLSOURCE=BROP-CMP#/",
     "name":"平安银行",
     "logo":"assets/pa.png"
   },
