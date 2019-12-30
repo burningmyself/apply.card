@@ -44,9 +44,9 @@ const cardList = [
     "name":"中国银行",
     "logo":"assets/zg.png"
   },
-  {
-    "url": "https://xyk.cebbank.com/cebmms/apply/psjk/list.htm?pro_code=FHZY010000SZ0001CCTC&amp;c2c_recom_flag=89135537",
-    "name":"光大银行",
-    "logo":"assets/gd.png"
-  },
+  // {
+  //   "url": "https://xyk.cebbank.com/cebmms/apply/psjk/list.htm?pro_code=FHZY010000SZ0001CCTC&amp;c2c_recom_flag=89135537",
+  //   "name":"光大银行",
+  //   "logo":"assets/gd.png"
+  // },
 ];
