@@ -10,7 +10,7 @@ const cardList = [
     "logo":"assets/zx.png"
   },
   {
-    "url": "https://wm.cib.com.cn/html/webapp/fast-issue/parnter.html?id=8bede95ad6a94ec78397207f346f31c3",
+    "url": "https://wm.cib.com.cn/html/webapp/fast-issue-con/parnter.html?id=7d80846dfdae4611a4a63455b6a96d6f",
     "name":"兴业银行",
     "logo":"assets/xy.png"
   },
@@ -20,7 +20,12 @@ const cardList = [
     "logo":"assets/pa.png"
   },
   {
-    "url": "https://creditcardapp.bankcomm.com/applynew/front/apply/mgm/account/wechatEntry.html?recomId=7063159&amp;saleCode=&amp;entryRecomId=null&amp;trackCode=A080714237826&amp;isNewCardMgm=2",
+    "url": "http://95508.com/Zh9LfS3GI",
+    "name":"广发银行",
+    "logo":"assets/gf.png"
+  },
+  {
+    "url": "https://creditcardapp.bankcomm.com/applynew/front/apply/mgm/account/wechatEntry.html?recomId=7063159&saleCode=&entryRecomId=&trackCode=A082017124992&isNewCardMgm=2&availableDate=ec980dce98b3f92d687a2cdedfdd1cac",
     "name":"交通银行",
     "logo":"assets/jt.png"
   },
@@ -34,13 +39,13 @@ const cardList = [
     "name":"工商银行",
     "logo":"assets/gs.png"
   },
+  // {
+  //   "url": "https://apl.cc.hrbb.com.cn/bankcoas/mb/?mobphnNo=CD36CD66E1DE7699338B59A0CF2F151F&amp;Merchant=CF18EB490DE8A2F8&amp;Channel=C981FED17585F2AE&amp;idNum=EAAD24A9F3E01D40FDA688EC6B0F6F63BA733F22F1C0AC88",
+  //   "name":"哈尔滨银行",
+  //   "logo":"assets/he.png"
+  // },
   {
-    "url": "https://apl.cc.hrbb.com.cn/bankcoas/mb/?mobphnNo=CD36CD66E1DE7699338B59A0CF2F151F&amp;Merchant=CF18EB490DE8A2F8&amp;Channel=C981FED17585F2AE&amp;idNum=EAAD24A9F3E01D40FDA688EC6B0F6F63BA733F22F1C0AC88",
-    "name":"哈尔滨银行",
-    "logo":"assets/he.png"
-  },
-  {
-    "url": "https://api.djtlpay.com/Web/RecBankCard?Id=201901031643001177847fae04d6b58",
+    "url": "https://apply.mcard.boc.cn/apply/c/uYv263",
     "name":"中国银行",
     "logo":"assets/zg.png"
   },
