@@ -15,7 +15,7 @@ const cardList = [
     "logo":"assets/xy.png"
   },
   {
-    "url": "https://b.pingan.com.cn/creditcard/life/marketing/uniMGMM2/uniMGMM2.html?recommendChineseName=%E6%8E%A8%E8%8D%90&recommendPhone=15696434348&headImage=http%3A%2F%2Fthirdwx.qlogo.cn%2Fmmopen%2FXHZQM9SpdF9YlTaTmoC5OPUj9OH2yJdqHNhic05q4ibDUo4KzJ3tWoxoc2OCibUwx3D0TFPxibbfQJ9tfzphiciaY9icz2GEoPibBlef%2F132&MGMAD=https%3A%2F%2Fb.pingan.com.cn%2Fkuaizhan%2Fpage%2F20190201%2Fh2329.html%3Fcampaignid%3D201902001401%26activity_Id%3DV3484&channel_source=2&source=tyMGM&outerSource=tymgm201909&activity_Id=V3484&activity_FlowId=m_H0MyWxgMSizBXsHT4348&enUmForShare=&rec_no=&SSLSOURCE=BROP-CMP#/",
+    "url": "https://b.pingan.com.cn/creditcard/life/marketing/uniMGMM2/uniMGMM2.html?recommendChineseName=%E6%8E%A8%E8%8D%90&recommendPhone=15696434348&headImage=ttp%3A%2F%2Fthirdwx.qlogo.cn%2Fmmopen%2FXHZQM9SpdF9YlTaTmoC5OPUj9OH2yJdqHNhic05q4ibDUo4KzJ3tWoxoc2OCibUwx3D0TFPxibbfQJ9tfzphiciaY9icz2GEoPibBlef%2F132&MGMAD=https%3A%2F%2Fb.pingan.com.cn%2Fkuaizhan%2Fpage%2F20190201%2Fh2329.html%3Fcampaignid%3D201902001401%26activity_Id%3DV3484&channel_source=2&source=tyMGM&outerSource=tymgm201909&activity_Id=V3484&activity_FlowId=m_H0MyWxgMSizBXsHT4348&enUmForShare=&rec_no=&SSLSOURCE=BROP-CMP#/",
     "name":"平安银行",
     "logo":"assets/pa.png"
   },
@@ -25,7 +25,7 @@ const cardList = [
     "logo":"assets/gf.png"
   },
   {
-    "url": "https://creditcardapp.bankcomm.com/applynew/front/apply/mgm/account/wechatEntry.html?recomId=7063159&saleCode=&entryRecomId=&trackCode=A082017124992&isNewCardMgm=2&availableDate=ec980dce98b3f92d687a2cdedfdd1cac",
+    "url": "https://creditcard.bankcomm.com/content/dam/phone/activity/chbz/loaderror.html?recomId=7063159&saleCode=&entryRecomId=&trackCode=A012514143340&isNewCardMgm=2&availableDate=3b3b22c6dcbdb70e4ea021641266b3c9",
     "name":"交通银行",
     "logo":"assets/jt.png"
   },
@@ -35,7 +35,7 @@ const cardList = [
     "logo":"assets/ms.png"
   },
   {
-    "url": "https://mims.icbc.com.cn/IMServiceServer/servlet/ICBCBaseReqNSServlet?dse_operationName=ApplyCreditCardOp&amp;coreCode=HZDW000004461&amp;paraPromoCode=TJ0001qglehkzg1b0000&amp;areacode=03100",
+    "url": "https://elife.icbc.com.cn/OFSTCARD/creditCard/apply.do?coreCode=HZDW000004461&paraPromoCode=TJ0001qglehkzg1b0000&areacode=03100",
     "name":"工商银行",
     "logo":"assets/gs.png"
   },
