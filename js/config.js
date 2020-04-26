@@ -15,17 +15,17 @@ const cardList = [
     "logo":"assets/xy.png"
   },
   {
-    "url": "https://b.pingan.com.cn/creditcard/life/marketing/uniMGMM2/uniMGMM2.html?recommendChineseName=%E6%8E%A8%E8%8D%90&recommendPhone=15696434348&headImage=ttp%3A%2F%2Fthirdwx.qlogo.cn%2Fmmopen%2FXHZQM9SpdF9YlTaTmoC5OPUj9OH2yJdqHNhic05q4ibDUo4KzJ3tWoxoc2OCibUwx3D0TFPxibbfQJ9tfzphiciaY9icz2GEoPibBlef%2F132&MGMAD=https%3A%2F%2Fb.pingan.com.cn%2Fkuaizhan%2Fpage%2F20190201%2Fh2329.html%3Fcampaignid%3D201902001401%26activity_Id%3DV3484&channel_source=2&source=tyMGM&outerSource=tymgm201909&activity_Id=V3484&activity_FlowId=m_H0MyWxgMSizBXsHT4348&enUmForShare=&rec_no=&SSLSOURCE=BROP-CMP#/",
+    "url": "https://b.pingan.com.cn/creditcard/life/marketing/uniMGMM2/uniMGMM2.html?recommendChineseName=&recommendPhone=15696434348&headImage=https%3A%2F%2Fbank-static.pingan.com.cn%2Fcreditcard%2Flife%2Fmarketing%2Flib%2Fimage%2Fm2-icon.png&MGMAD=https%3A%2F%2Fb.pingan.com.cn%2Fkuaizhan%2Fpage%2F20190201%2Fh2329.html%3Fcampaignid%3D201902001401%26activity_Id%3DV1953&source=2020cgMGM&activity_Id=V1953&activity_FlowId=m_G0N6qZ9nQJfvMJRt4348&outerid=ou0000009&cid=ci0000012&SSLSOURCE=BROP-CMP#/",
     "name":"平安银行",
     "logo":"assets/pa.png"
   },
   {
-    "url": "http://95508.com/Zh9LfS3GI",
+    "url": "http://95508.com/o1l9RvDWL",
     "name":"广发银行",
     "logo":"assets/gf.png"
   },
   {
-    "url": "https://creditcard.bankcomm.com/content/dam/phone/activity/chbz/loaderror.html?recomId=7063159&saleCode=&entryRecomId=&trackCode=A012514143340&isNewCardMgm=2&availableDate=3b3b22c6dcbdb70e4ea021641266b3c9",
+    "url": "https://creditcardapp.bankcomm.com/applynew/front/apply/online/cardlist.html?trackCode=A082017124992&availableDate=981071f6ded1fc242fe4969d59596c27&commercial_id=null&telecom_id=null",
     "name":"交通银行",
     "logo":"assets/jt.png"
   },
@@ -39,11 +39,11 @@ const cardList = [
     "name":"工商银行",
     "logo":"assets/gs.png"
   },
-  // {
-  //   "url": "https://apl.cc.hrbb.com.cn/bankcoas/mb/?mobphnNo=CD36CD66E1DE7699338B59A0CF2F151F&amp;Merchant=CF18EB490DE8A2F8&amp;Channel=C981FED17585F2AE&amp;idNum=EAAD24A9F3E01D40FDA688EC6B0F6F63BA733F22F1C0AC88",
-  //   "name":"哈尔滨银行",
-  //   "logo":"assets/he.png"
-  // },
+  {
+    "url": "https://apl.cc.hrbb.com.cn/bankcoas/mb/?mobphnNo=CD36CD66E1DE7699338B59A0CF2F151F&Merchant=CF18EB490DE8A2F8&Channel=C981FED17585F2AE&idNum=EAAD24A9F3E01D40FDA688EC6B0F6F63BA733F22F1C0AC88",
+    "name":"哈尔滨银行",
+    "logo":"assets/he.png"
+  },
   {
     "url": "https://apply.mcard.boc.cn/apply/c/uYv263",
     "name":"中国银行",
