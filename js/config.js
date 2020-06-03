@@ -20,7 +20,7 @@ const cardList = [
     "logo":"assets/pa.png"
   },
   {
-    "url": "http://95508.com/o1l9RvDWL",
+    "url": "http://95508.com/L042lUKtS",
     "name":"广发银行",
     "logo":"assets/gf.png"
   },
